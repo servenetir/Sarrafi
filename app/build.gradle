@@ -20,7 +20,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 32
-    buildToolsVersion '32.0.0'
+    buildToolsVersion '32.1.4'
     flavorDimensions "default"
     defaultConfig {
         applicationId "com.shalchian.sarrafi"
